@@ -3,7 +3,7 @@
  "panels": {
   "lab2": {
    "img": "img/lab2-mved7xq0.jpg",
-   "link": "",
+   "link": "https://isissmatese.com/arcade",
    "label": "Lab. Informatica – lavagna 2"
   },
   "esterno": {
@@ -12,5 +12,5 @@
    "label": "Cartellone esterno davanti all'ingresso"
   }
  },
- "updated": "2026-10-18T22:03:42.465Z"
+ "updated": "2026-10-18T22:04:05.788Z"
 }
